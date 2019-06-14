@@ -6,7 +6,7 @@
         "contributor level": "Beginner",
         "contact": "Robert Hensing",
         "description": "Arion integrates Nix and Docker Compose to improve container development. It sorely needs a Main.hs. Your first Haskell command line tool?"
-    },
+    },    
     {
         "id": "arithmoi",
         "name": "arithmoi",
@@ -197,6 +197,14 @@
         "contributor level": "Beginner, Intermediate, Advanced",
         "contact": "Alexey Kuleshevich",
         "description": "Efficient Haskell Arrays featuring Parallel computation."
+    },
+    {
+        "id": "mlir",
+        "name": "Modeling functional languages with MLIR",
+        "link": "https://github.com/tensorflow/mlir/",
+        "contributor level": "Intermediate, Advanced",
+        "contact": "Tobias Grosser",
+        "description": "MLIR proposes a JSON for compiler IRs. Let's explore how a dialect for a functional language could look like. I am personally interested in lean, but would like to understand well which properties translate well across languages."
     },
     {
         "id": "niv",
